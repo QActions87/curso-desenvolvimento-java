@@ -68,12 +68,13 @@ Veremos:
 ## Exercícios:
     
    - **Código 01**: [**Média Aritmética**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/media/MediaAritmetica.java)
-
       - **Função**: Programa que captura 3 notas digitadas pelo usuário, efetua a soma, depois calcula a média aritmética e a imprime.
 
    - **Código 02**: [**Conversão de anos em dias**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/idade/DiasDeIdade.java)
-
       - **Função**: Captura a idade do usuário digitada em anos, depois converte para dias e imprime.
+
+   - **Código 03**: [**Tabuada**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/tabuada/Tabuada.java)
+      - **Função**: Capturar o input numérico inteiro que o usuário digitar, tendo como output a tabuado até o 10 do número digitado. 
 
 Loading...
 
