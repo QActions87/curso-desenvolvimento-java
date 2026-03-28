@@ -68,19 +68,20 @@ Veremos:
 ## Exercícios:
     
    - **Código 01**: [**Média Aritmética**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/media/MediaAritmetica.java)
-      - **Função**: Programa que captura 3 notas digitadas pelo usuário, efetua a soma, depois calcula a média aritmética e a imprime.
+      - **Função**: Programa que captura 3 notas digitadas pelo usuário, **efetua a soma**, depois **calcula a média aritmética e a imprime.
 
    - **Código 02**: [**Conversão de Anos em Dias**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/idade/DiasDeIdade.java)
-      - **Função**: Captura a idade do usuário digitada em anos, depois converte para dias e imprime.
+      - **Função**: Captura a **idade do usuário digitada em anos**, depois **converte para dias** e imprime.
 
    - **Código 03**: [**Tabuada**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/tabuada/Tabuada.java)
-      - **Função**: Capturar o input numérico inteiro que o usuário digitar, tendo como output a tabuado até o 10 do número digitado. 
+      - **Função**: **Capturar o input numérico inteiro** que o usuário digitar, **tendo como output** a **tabuado até o 10** do número digitado. 
 
    - **Código 04**: [**Operadores Relacionais**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/oprelacional/RelacionamentosDeOrdem.java)
      - **Função**: Este programa permite que o usuário faça o **input de 2 números inteiro**,para que eles sejam **comparados pelos operadores lógicos relacionais**.
 
    - **Código 05**: [**Programa Cálculo de Desconto**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/desconto/PrecoComDesconto.java)
-     - 
+     - **Função**:  Este programa **lê o valor do produto** e o **desconto em porcentagem**, ambos imputados pelo usuário. Depois, calcula o valor do desconto na compra à vista  do produto, **informando o valor com desconto e o valor economizado**.
+
 
 Loading...
 
