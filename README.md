@@ -85,8 +85,11 @@ Veremos:
    - **Código 06**: [**Cálculo de estoque médio**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estoque/EstoqueMedio.java)
      - **Função**: Programa que **calcula o estoque médio** de um produto, com base no estoque mínimo e no máximo.
 
-   - **Código 07**: [**COnversor de Dólares em Reais**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/conversor/ConverosrDolarReal.java)
-     - Este programa **converte valores de Dólares para Reais**.
+   - **Código 07**: [**Conversor de Dólares em Reais**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/conversor/ConverosrDolarReal.java)
+     - **Função**: Este programa **converte valores de Dólares para Reais**.
+
+  - **Código 08**: [**Saudação ao Usuário**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/console/SaudacaoConsole.java)
+     - **Função**: Usando a classe Console ao invés da Scanner, o programa lê o nome do usuário, informado em um input, depois, concatena isso com uma saudação, imprimindo na tela.
 
 
 Loading...
