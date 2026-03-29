@@ -12,11 +12,11 @@ public class ConverosrDolarReal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Lê e armazena o valor em dólar
-        System.out.println("Digite o valor em dólar:");
+        System.out.println("Digite o valor em dólar: ");
         double dolares = scanner.nextDouble();
         
         // Lê e armazena a cotação do dólar
-        System.out.println("Digite a cotação do dólar:");
+        System.out.println("Digite a cotação do dólar: ");
         double cotacao = scanner.nextDouble();
         // Calcula o valor em reais
         double reais = dolares * cotacao;
