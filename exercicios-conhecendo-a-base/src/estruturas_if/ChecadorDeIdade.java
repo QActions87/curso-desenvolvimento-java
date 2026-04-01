@@ -8,12 +8,17 @@ public class ChecadorDeIdade {
 
         System.out.println("Digite a sua idade: ");
         int idade = scanner.nextInt(); 
+        // If comum:
+        // if (idade >= 18) {
+        //     System.out.println("Pode comprar o ingresso!");
+        // } else {
+        //     System.out.println("Este evento é para maiores de 18 anos!");
+        // }
 
-        if (idade >= 18) {
-            System.out.println("Pode comprar o ingresso!");
-        } else {
-            System.out.println("Este evento é para maiores de 18 anos!");
-        }
+        // If ternário: [ condição ? expressão1: expressão2 ] // {? => If} [: => else]
+        String mensagem = 
+        (idade >= 18) ? "Pode comprar o ingresso!" : "Este evento é para maiores de 18 anos!";
+        System.out.println(mensagem);
 
         scanner.close();
     }
