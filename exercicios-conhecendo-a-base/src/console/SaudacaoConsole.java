@@ -17,6 +17,6 @@ public class SaudacaoConsole {
 
         System.out.println("Digite seu nome: ");
         String nome = console.readLine();
-        System.out.printf("Olá, %s! Seja bem-vindo!%n", nome);
+        System.out.printf("Olá! Seja bem-vindo!%n", nome);
     }
 }
