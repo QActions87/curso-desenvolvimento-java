@@ -111,6 +111,10 @@ Veremos:
      - **Função**: Através da estrutura **If-Else** e com base em parâmetro definido, o programa em questão é capaz de fazer a média aritmética e informar se, de acordo com o parâmetro definido, o aluno foi aprovado ou não. 
 #
 
+  - **Código 12**: **If-Else: Par ou Impar?**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/ParOuImpar.java)
+     - **Função**: Ainda usando da estrutura **If-Else**, agora com o **operador de módulo (%)** - que verifica o **resto da divisão** -, este programa verifica se um input inteiro feito pelo usuário é **par ou impar**..
+#
+
 
 Loading...
 
