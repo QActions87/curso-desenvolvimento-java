@@ -107,6 +107,10 @@ Veremos:
      - **Função**: Esta é outra possibilidade de **Estrutura de Decisão**. Porém, o **Switch** trabalha com a ideia de **avaliar o valor de uma variável**, **não uma expressão booleano**. Este programa verificará a nota que o usuário digitar e, de acordo com a nota, terá um output com feedback específico. 
 #
 
+  - **Código 11**: [**If-Else: Checador de Aprovados**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AprovadoReprovado.java)
+     - **Função**: Através da estrutura **If-Else** e com base em parâmetro definido, o programa em questão é capaz de fazer a média aritmética e informar se, de acordo com o parâmetro definido, o aluno foi aprovado ou não. 
+#
+
 
 Loading...
 
