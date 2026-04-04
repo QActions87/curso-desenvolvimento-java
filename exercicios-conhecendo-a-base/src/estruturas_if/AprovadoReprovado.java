@@ -1,7 +1,7 @@
 /* 
  * 1º passo: Lê 3 notas;
  * 2º passo: Calcula a média aritmética;
- * 1º passo: Informa se aprovado ou reprovado.
+ * 3º passo: Informa se aprovado ou reprovado.
  */
 package estruturas_if;
 
