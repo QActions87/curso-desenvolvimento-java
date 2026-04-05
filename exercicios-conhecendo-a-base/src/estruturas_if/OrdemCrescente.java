@@ -18,9 +18,18 @@ public class OrdemCrescente {
         System.out.print("Digite o 3º número: ");
         int num3 = scanner.nextInt();
 
-        // Imprime o menor número:
+        // Imprime o 1º menor número:
         if (num1 < num2 && num1 < num3) {
             System.out.println(num1);
+            // Imprime o 2º menor número seguido do 3º menor:
+            if (num2 < num3) {
+                System.out.println(num2);
+                System.out.println(num3);
+            } else {
+                System.out.println(num3);
+                System.out.println(num2);
+            }
+
         } else if (num2 < num1 && num2 < num3) {
             System.out.println(num2);
         } else {
