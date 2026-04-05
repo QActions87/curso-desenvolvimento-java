@@ -115,7 +115,7 @@ Veremos:
      - **Função**: Ainda usando da estrutura **If-Else**, agora com o **operador de módulo (%)** - que verifica o **resto da divisão** -, este programa verifica se um input inteiro feito pelo usuário é **par ou impar**.
 #
 
-  - **Código 13**: [**If-Else: Ordem Crescente**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/ParOuImpar.java)
+  - **Código 13**: [**If-Else: Ordem Crescente**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/OrdemCrescente.java)
      - **Função**: Programa lê 3 números e os imprime em ordem crescente.
 #
 
