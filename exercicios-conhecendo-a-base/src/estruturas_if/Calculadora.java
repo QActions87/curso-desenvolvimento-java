@@ -25,6 +25,7 @@ public class Calculadora {
                 num1, operador, num2, num1 * num2);
             case "/" -> System.out.printf("Resultado:\n%d %s %d = %d\n",
                 num1, operador, num2, num1 / num2);  
+            default -> System.out.println("Operador inválido!");
         }
 
         scanner.close();
