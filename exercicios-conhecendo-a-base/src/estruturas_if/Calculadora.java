@@ -1,3 +1,4 @@
+/* Calculadora simples com switch */
 package estruturas_if;
 
 import java.util.Scanner;
