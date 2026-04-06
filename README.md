@@ -123,7 +123,7 @@ Veremos:
      - **Função**: Programa lê 2 números e o operador informado pelo usuário, para efetuar o cálculo conforme operação solicitada.
 #
 
-  - **Código 15**: [**If-Else: Calculadora de IMC**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/Calculadora.java)
+  - **Código 15**: [**If-Else: Calculadora de IMC**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/CalculadoraIMC.java)
      - **Função**: Programa lê 2 valores: Peso e Altura, calcula o IMC e informa o resultador classificação em que o usuário se encontra.
 #
 
