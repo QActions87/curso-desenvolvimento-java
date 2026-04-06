@@ -124,7 +124,7 @@ Veremos:
 #
 
   - **Código 15**: [**If-Else: Calculadora de IMC**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/CalculadoraIMC.java)
-     - **Função**: Programa lê 2 valores: Peso e Altura, calcula o IMC e informa o resultador classificação em que o usuário se encontra.
+     - **Função**: Programa lê 2 valores: Peso e Altura, calcula o IMC e informa o resultado e a classificação em que o usuário se encontra.
 #
 
 
