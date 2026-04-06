@@ -131,6 +131,10 @@ Veremos:
      - **Função**: Permite que o usuário informe o tipo de figura geométrica e os parâmetros a serem calculados, para que possa informar à área.
 #
 
+  - **Código 17**: [**If-Else: Verificador de Ano Bissexto**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AnoBissexto.java)
+     - **Função**: Verifica se um ano é bissexto ou não.
+#
+
 
 
 Loading...
