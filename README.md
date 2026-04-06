@@ -127,6 +127,10 @@ Veremos:
      - **Função**: Programa lê 2 valores: Peso e Altura, calcula o IMC e informa o resultado e a classificação em que o usuário se encontra.
 #
 
+  - **Código 16**: [**Switch-Case: Calcula Área de Figura Geométrica**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AreaFiguraGeometrica.java)
+     - **Função**: Permite que o usuário informe o tipo de figura geométrica e os parâmetros a serem calculados, para que possa informar à área.
+#
+
 
 
 Loading...
