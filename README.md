@@ -139,6 +139,10 @@ Veremos:
      - **Função**: Aqui, temos um jogo que dá 5 chances para que o usuário tente acertar um determinado número. Por isso, este será o 1º código usando a **estrutura de repetição** **'while'** com um **If-Else aninhado** nele.
 #
 
+  - **Código 19**: [**For: Cálculo de Fatorial**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/ForStructure.java)
+     - **Função**: Calcula **fatorial** com a estrutura de repetição '**for**'.
+#
+
 
 
 Loading...
