@@ -1,7 +1,7 @@
 package repeticao;
 import java.util.Scanner;
 
-public class App {
+public class WhileStructure {
     public static void main(String[] args) {
         int num = 7, tentativas = 5;
         Scanner sc = new Scanner(System.in);
