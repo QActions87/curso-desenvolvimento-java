@@ -143,6 +143,10 @@ Veremos:
      - **Função**: Calcula **fatorial** com a estrutura de repetição '**for**'.
 #
 
+  - **Código 20**: [**Jump Statement/continue: Contador de números pares**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatements.java)
+     - **Função**: Programa que conta de 1 até 50, **imprimindo** apenas **os pares, passando um  Jump Statement 'continue' para pular os ímpares**.
+#
+
 
 
 Loading...
