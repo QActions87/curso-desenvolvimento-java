@@ -151,7 +151,7 @@ Veremos:
      - **Função**: Exemplo de uso do Jump Statement "**break**" para **encerrar um loop quando o usuário digitar uma opção específica** (**0** neste caso).
 #
 
-  - **Código 22**: [**Jump Statement/return: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatementsII.java)
+  - **Código 22**: [**Jump Statement/return: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatementsIII.java)
      - **Função**: Exemplo de uso do Jump Statement "**return**" para **encerrar um loop quando o usuário digitar uma opção específica** (**0** neste caso).
 #
 
