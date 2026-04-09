@@ -147,6 +147,10 @@ Veremos:
      - **Função**: Programa que conta de 1 até 50, **imprimindo** apenas **os pares, passando um  Jump Statement 'continue' para pular os ímpares**.
 #
 
+  - **Código 21**: [**Jump Statement/break: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatements.java)
+     - **Função**: Exemplo de uso do Jump Statement "**break**" para **encerrar um loop quando o usuário digitar uma opção específica** (**0** neste caso).
+#
+
 
 
 Loading...
