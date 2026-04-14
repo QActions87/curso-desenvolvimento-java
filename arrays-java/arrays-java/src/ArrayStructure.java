@@ -7,5 +7,9 @@ public class ArrayStructure {
         System.out.println(frutas[1]); // Imprime "Banana"
         System.out.println(frutas[2]); // Imprime "Laranja"
         System.out.println(frutas[3]); // Imprime "Uva"
+        
+        // Modificar o 2º elemento do array (de:Banana para:Abacaxi):
+        frutas[1] = "Abacaxi";
+        System.out.println(frutas[1]); // Imprime "Abacaxi"     
     }
 }
