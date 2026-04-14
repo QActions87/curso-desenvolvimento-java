@@ -10,6 +10,9 @@ public class ArrayStructure {
         
         // Modificar o 2º elemento do array (de:Banana para:Abacaxi):
         frutas[1] = "Abacaxi";
-        System.out.println(frutas[1]); // Imprime "Abacaxi"     
+        System.out.println(frutas[1]); // Imprime "Abacaxi" 
+        
+        // Tamanho do array:
+        System.out.println("Tamanho do array: " + frutas.length); // Imprime "Tamanho do array: 4"
     }
 }
