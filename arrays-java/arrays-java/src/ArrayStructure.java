@@ -20,8 +20,10 @@ public class ArrayStructure {
             System.out.println(frutas[i] + " está na posição " + i);
         }
         // Iterar sobre o array usando um loop for-each:
+        int i = 0; // Criamos o contador por fora do loop para acompanhar a posição
         for (String fruta : frutas) {
-            System.out.println("A fruta: " + fruta + " está na posição: ...");
+            System.out.println("A fruta: " + fruta + " está na posição: " + i);
+            i++; // Incrementa o contador para a próxima posição
         }
     }
 }
