@@ -12,7 +12,12 @@ public class ArrayStructure {
         frutas[1] = "Abacaxi";
         System.out.println(frutas[1]); // Imprime "Abacaxi" 
         
-        // Tamanho do array:
+        // Verificar tamanho do array:
         System.out.println("Tamanho do array: " + frutas.length); // Imprime "Tamanho do array: 4"
+
+        // Iterar sobre o array usando um loop for:
+        for (int i = 0; i < frutas.length; i++) {
+            System.out.println(frutas[i] + " está na posição " + i);
+        }
     }
 }
