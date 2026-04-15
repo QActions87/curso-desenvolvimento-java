@@ -21,7 +21,7 @@ public class ArrayStructure {
         }
         // Iterar sobre o array usando um loop for-each:
         for (String fruta : frutas) {
-            System.out.println(fruta);
+            System.out.println("A fruta: " + fruta + " está na posição: ...");
         }
     }
 }
