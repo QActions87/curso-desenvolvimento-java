@@ -19,5 +19,9 @@ public class ArrayStructure {
         for (int i = 0; i < frutas.length; i++) {
             System.out.println(frutas[i] + " está na posição " + i);
         }
+        // Iterar sobre o array usando um loop for-each:
+        for (String fruta : frutas) {
+            System.out.println(fruta);
+        }
     }
 }
