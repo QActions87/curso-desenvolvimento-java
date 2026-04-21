@@ -155,6 +155,14 @@ Veremos:
      - **Função**: Exemplo de uso do Jump Statement "**return**" para **encerrar um loop quando o usuário digitar uma opção específica** (**0** neste caso).
 #
 
+  - **Código 23**: [**Array/String[] args: passando argumento em tempo de execução**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayStructure.java)
+     - **Função**: Dando **introdução ao array**, neste programa foi usado um array de **tipo de referência** com a **classe String** com frutas. Depois, acessamos e modificamos um elemento do Array. 
+
+Em seguida, verificamos o tamanho do Array com a **propriedade 'length'** da classe String com um l**oop 'for'** para fazer a iteração, percorrer o Array, imprimindo todos elementos. Depois, iteramos sobre o array com um **loop 'for-each'**, deixando o código muito mais legível. 
+
+Por fim, comentei o código, da parte onde acessei e modifiquei os elementos até o fim, para usar a estrutura inicial para testar a passagem de argumento pelo terminal, em tempo de execução, usando a classe 'String', e seus argumentos, contida no no método 'main com um **loop for-each**, logo após **instanciar o objeto frutas**. .
+#
+
 
 
 Loading...
