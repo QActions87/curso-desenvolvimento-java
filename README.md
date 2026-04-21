@@ -160,7 +160,7 @@ Veremos:
 
 Em seguida, verificamos o tamanho do Array com a **propriedade 'length'** da classe String com um l**oop 'for'** para fazer a iteração, percorrer o Array, imprimindo todos elementos. Depois, iteramos sobre o array com um **loop 'for-each'**, deixando o código muito mais legível. 
 
-Por fim, comentei o código, da parte onde acessei e modifiquei os elementos até o fim, para usar a estrutura inicial para testar a passagem de argumento pelo terminal, em tempo de execução, usando a classe 'String', e seus argumentos, contida no no método 'main com um **loop for-each**, logo após **instanciar o objeto frutas**. .
+Por fim, comentei o código, da parte onde acessei e modifiquei os elementos até o fim, para usar a estrutura inicial para testar a passagem de argumento pelo terminal, em tempo de execução, usando a classe 'String', e seus argumentos, contida no no método 'main com um **loop for-each**, logo após **instanciar o objeto frutas**. Então, pelo terminal, de dentro do diretório 'bin', podemos **executar o '.class', passando mais frutas**, **ex.:** [.../bin$ **java ArrayStructure "Jaca" "Cajú"**].
 #
 
 
