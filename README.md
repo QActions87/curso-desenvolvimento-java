@@ -9,7 +9,7 @@ Neste repo estou documentando a construção do meu conhecimento em programaçã
 Aqui, temos **artigos** e **códigos fonte** a cerca de temas que estou fascinadamente aprendendo em Java. A **referência do documento** a seguir é o **Curso de Desenvolvimento Java**, da Arquiteta de Soluções Giuliana Silva Bezerra e pesquisas complementares. 
  
 ### Documentação:
- - **Artigo 01**: [Java — Introdução](https://medium.com/@atom.free/java-introdu%C3%A7%C3%A3o-3292761e18e8?postPublishedType=initial)
+ - **Artigo 01**: [Java — Introdução](https://medium.com/@atom.free/java-introdu%C3%A7%C3%A3o-3292761e18e8?postPublishedType=repub)
 
 Veremos:
 
@@ -48,7 +48,7 @@ Veremos:
      
 #
 #
- - **Artigo 03:** [JAVA — Entrada e Saída de dados](https://medium.com/@atom.free/java-entrada-e-sa%C3%ADda-de-dados-cf46ff7f7479?postPublishedType=initial)
+ - **Artigo 03:** [JAVA — Entrada e Saída de dados](https://medium.com/@atom.free/java-entrada-e-sa%C3%ADda-de-dados-cf46ff7f7479?postPublishedType=repub)
 
 Veremos:
 
