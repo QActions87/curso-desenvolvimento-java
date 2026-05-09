@@ -7,16 +7,18 @@ public class ArrayStructure {
         System.out.println(frutas[1]); // Imprime "Banana"
         System.out.println(frutas[2]); // Imprime "Laranja"
         System.out.println(frutas[3]); // Imprime "Uva"
+
+        /*
         // Imprimir os argumentos passados para o programa:
         for (String arg : args) {
             System.out.println(arg);
         }
+        
 
-         /*
         // Modificar o 2º elemento do array (de:Banana para:Abacaxi):
         frutas[1] = "Abacaxi";
         System.out.println(frutas[1]); // Imprime "Abacaxi" 
-        
+        */
         // Verificar tamanho do array:
         System.out.println("Tamanho do array: " + frutas.length); // Imprime "Tamanho do array: 4"
          
@@ -30,7 +32,7 @@ public class ArrayStructure {
             System.out.println("A fruta: " + fruta + " está na posição: " + i);
             i++; // Incrementa o contador para a próxima posição
         }
-        */
+        
         
         
     }
