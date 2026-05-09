@@ -5,13 +5,23 @@ public class ArrayMultidimensional {
         System.out.println(multidimencional[0][0]); // Imprime 1
         System.out.println(multidimencional[1][0]); // Imprime 4
         System.out.println(multidimencional[2][0]); // Imprime 7
+        
         // Modificando os valores:
         multidimencional[0][0] = 10; // Modifica o valor na posição [0][0] para 10
         multidimencional[1][0] = 40; // Modifica o valor na posição [1][0] para 40 
         multidimencional[2][0] = 70; // Modifica o valor na posição [2][0] para 70  
+
         // Imprimindo os valores modificados:
         System.out.println(multidimencional[0][0]); // imprime 10
         System.out.println(multidimencional[1][0]); // Imprime 40
         System.out.println(multidimencional[2][0]); // Imprime 70
+
+        // Iterando sobre o array multidimensional usando loops aninhados:
+        for (int i = 0; i < multidimencional.length; i++) {
+            for (int j = 0; j < multidimencional[i].length; j++) {
+                System.out.print(multidimencional[i][j] + " ");
+            }
+            System.out.println(); // Imprime uma nova linha após cada linha do array
+        }
     }
 }
