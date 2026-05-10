@@ -21,7 +21,7 @@ Veremos:
    - **Mão na Massa**: Estrutura de um programa, **comandos nativos** (**javac, java, java**p), Método Main e **Entry Point**.
    - **Saída de Dados**: O comando println e gerenciamento de arquivos.
 
-     - **Código 01**: [Main.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/olamundo/Main.java)
+     - **Código 01**: [Main.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura-programa-java/src/olamundo/Main.java)
 
 
 #
@@ -39,11 +39,11 @@ Veremos:
    
  - O desafio da **Divisão de Inteiros**: Um dos maiores aprendizados foi entender por que 9 / 2 resulta em 4.0 e não 4.5, mesmo salvando em um float. A ordem dos fatores e o momento do casting mudam tudo. Para um QA que trabalha com cálculos financeiros ou automação de performance, esse detalhe é a diferença entre um teste aprovado e um erro de cálculo crítico.
 
-     - **Código 01**: [TiposPrimitivos.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/tiposprimitivos/TiposPrimitivosNotasEstudos.java)
+     - **Código 01**: [TiposPrimitivos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura-programa-java/src/tiposprimitivos/TiposPrimitivosNotasEstudos.java)
      
-     - **Código 02**: [Variáveis.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/variaveis/VariaveisNotasEstudo.java)
+     - **Código 02**: [Variáveis.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura-programa-java/src/variaveis/VariaveisNotasEstudo.java)
      
-     - **Código 03**: [Casting.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/casting/CastingNotasEstudos.java)
+     - **Código 03**: [Casting.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura-programa-java/src/casting/CastingNotasEstudos.java)
 
      
 #
