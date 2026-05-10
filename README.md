@@ -171,7 +171,7 @@ Por fim, comentei o código, da parte onde acessei e modifiquei os elementos at�
      - **Função**: Agora, vamos **percorrer** a estrutura do **array multidimensional com loop aninhado Foreach**.
 #
 
-  - **Código 25**: [**Array: ImprimirArrayNumeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ImprimirArrayNumeros.java)
+  - **Código 26**: [**Array: ImprimirArrayNumeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ImprimirArrayNumeros.java)
      - **Função**: Estre programa efetua a **leitura do tamanho do array** que o usuario digitar, **riando um array** este dado, posteriormente **capturando os dados** informados - a quantidade informada no tamanho -, depois ****os imprime**.
 #
 
