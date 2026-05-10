@@ -167,8 +167,12 @@ Por fim, comentei o código, da parte onde acessei e modifiquei os elementos at�
      - **Função**: Vimos como lidar com arrays simples. Agora, vamos ver como **criar arrays multidimensionais**, **acessar suas posições**, **atualizar** seus **valores**, **acessar** o seus **tamanhos** e **percorrer** sua estrutura **com loops for aninhado**.
 #
 
-  - **Código 25**: [****Array/ArrayMultidimensional: Percorrendo com Foreach aninhado****](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/PercorrendoArrayMultidimensional.java)
+  - **Código 25**: [**Array/ArrayMultidimensional: Percorrendo com Foreach aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/PercorrendoArrayMultidimensional.java)
      - **Função**: Agora, vamos **percorrer** a estrutura do **array multidimensional com loop aninhado Foreach**.
+#
+
+  - **Código 25**: [**Array: ImprimirArrayNumeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ImprimirArrayNumeros.java)
+     - **Função**: Estre programa efetua a **leitura do tamanho do array** que o usuario digitar, **riando um array** este dado, posteriormente **capturando os dados** informados - a quantidade informada no tamanho -, depois ****os imprime**.
 #
 
 
