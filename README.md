@@ -163,6 +163,14 @@ Em seguida, verificamos o tamanho do Array com a **propriedade 'length'** da cla
 Por fim, comentei o código, da parte onde acessei e modifiquei os elementos até o fim, para usar a estrutura inicial para testar a passagem de argumento pelo terminal, em tempo de execução, usando a classe 'String' e seus argumentos, contida no método 'main com um **loop for-each**, logo após **instanciar o objeto frutas**. Então, pelo terminal, de dentro do diretório 'bin', podemos **executar o '.class', passando mais frutas**, **ex.:** [.../bin$ **java ArrayStructure "Jaca" "Cajú"**].
 #
 
+  - **Código 24**: [**Array/ArrayMultidimensional: Percorrendo com For aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayMultidimensional.java)
+     - **Função**: Vimos como lidar com arrays simples. Agora, vamos ver como **criar arrays multidimensionais**, **acessar suas posições**, **atualizar** seus **valores**, **acessar** o seus **tamanhos** e **percorrer** sua estrutura **com loops for aninhado**.
+#
+
+  - **Código 25**: [****Array/ArrayMultidimensional: Percorrendo com Foreach aninhado****](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/PercorrendoArrayMultidimensional.java)
+     - **Função**: Agora, vamos **percorrer** a estrutura do **array multidimensional com loop aninhado Foreach**.
+#
+
 
 
 Loading...
