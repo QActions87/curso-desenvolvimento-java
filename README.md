@@ -163,16 +163,20 @@ Em seguida, verificamos o tamanho do Array com a **propriedade 'length'** da cla
 Por fim, comentei o código, da parte onde acessei e modifiquei os elementos até o fim, para usar a estrutura inicial para testar a passagem de argumento pelo terminal, em tempo de execução, usando a classe 'String' e seus argumentos, contida no método 'main com um **loop for-each**, logo após **instanciar o objeto frutas**. Então, pelo terminal, de dentro do diretório 'bin', podemos **executar o '.class', passando mais frutas**, **ex.:** [.../bin$ **java ArrayStructure "Jaca" "Cajú"**].
 #
 
-  - **Código 24**: [**Array/ArrayMultidimensional: Percorrendo com For aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayMultidimensional.java)
+  - **Código 24**: [**Array/Array Multidimensional: Percorrendo com For aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayMultidimensional.java)
      - **Função**: Vimos como lidar com arrays simples. Agora, vamos ver como **criar arrays multidimensionais**, **acessar suas posições**, **atualizar** seus **valores**, **acessar** o seus **tamanhos** e **percorrer** sua estrutura **com loops for aninhado**.
 #
 
-  - **Código 25**: [**Array/ArrayMultidimensional: Percorrendo com Foreach aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/PercorrendoArrayMultidimensional.java)
+  - **Código 25**: [**Array/Array Multidimensional: Percorrendo com Foreach aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/PercorrendoArrayMultidimensional.java)
      - **Função**: Agora, vamos **percorrer** a estrutura do **array multidimensional com loop aninhado Foreach**.
 #
 
-  - **Código 26**: [**Array: ImprimirArrayNumeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ImprimirArrayNumeros.java)
+  - **Código 26**: [**Array: Imprimir Array de Numeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ImprimirArrayNumeros.java)
      - **Função**: Estre programa efetua a **leitura do tamanho do array** que o usuario digitar, **riando um array** este dado, posteriormente **capturando os dados** informados - a quantidade informada no tamanho -, depois ****os imprime**.
+#
+
+  - **Código 27**: [**Array: Gerenciador de Tarefas**](https://github.com/QActions87/Fundamentos_java/blob/main/src/Tarefas.java)
+     - **Função**: Esse programa funciona como um **Gerenciador de Tarefas via Terminal**. Ele utiliza um **ciclo de repetição para manter o software ativo** até que você decida fechá-lo, permitindo manipular uma **lista fixa de 10 posições**.
 #
 
 
