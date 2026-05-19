@@ -7,6 +7,5 @@ public class Casa {
       } else {
         System.out.println("luzes ligadas manualmente");
       }  
-        
     }
 }
