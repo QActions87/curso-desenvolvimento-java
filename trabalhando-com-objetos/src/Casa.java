@@ -1,10 +1,16 @@
+// Classe Casa:
 public class Casa {
     boolean inteligente;
+    // Construtor sem parâmetros: 
+    public Casa() {
 
+    }
+    // Construtor com parâmetros:
     public Casa(boolean inteligente) {
         this.inteligente = inteligente;
     }
 
+    // Método para ligar as luzes:
     void ligarLuzes() {
       if (inteligente) {
         System.out.println("comando de Voz: ligar luzes");
