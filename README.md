@@ -119,12 +119,12 @@ Veremos:
      - **Função**: Programa lê 3 números e os imprime em ordem crescente.
 #
 
-  - **Código 14**: [**Switch-Case: Calculadora**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/Calculadora.java)
+  - **Código 14**: [**Switch-Case: Calculator**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/Calculator.java)
      - **Função**: Programa lê 2 números e o operador informado pelo usuário, para efetuar o cálculo conforme operação solicitada.
 #
 
-  - **Código 15**: [**If-Else: Calculadora de IMC**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/CalculadoraIMC.java)
-     - **Função**: Programa lê 2 valores: Peso e Altura, calcula o IMC e informa o resultado e a classificação em que o usuário se encontra.
+  - **Código 15**: [**If-Else: Calculator de IMC**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/CalculadoraIMC.java)
+     - **Função**: Programa lê 2 valores: Peso e Altura, calcula o IMC e informa o resultant e a classificação em que o usuário se encontra.
 #
 
   - **Código 16**: [**Switch-Case: Calcula Área de Figura Geométrica**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AreaFiguraGeometrica.java)
