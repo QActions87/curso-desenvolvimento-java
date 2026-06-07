@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ObjectOrientedProgramming {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
-        calculator.calcular();
+        calculator.calculate();
     }
 }
 // Class Calculator
@@ -16,7 +16,7 @@ class Calculator {
         return this.operand1 + this.operand2;
     }
 
-    public void calcular() {
+    public void calculate() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Informe o 1º operando: ");
