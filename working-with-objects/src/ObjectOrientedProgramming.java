@@ -1,6 +1,5 @@
 // Imports the Scanner class from the java.util package to read user input
 import java.util.Scanner;
-
 /**
  * Main class that serves as the entry point of the application.
  */

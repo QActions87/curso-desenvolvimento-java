@@ -1,7 +1,7 @@
 // Classe Casa:
 public class Casa {
     boolean inteligente;
-    // Construtor sem parâmetros: 
+    // Construtor Padrão, sem parâmetros:
     public Casa() {
 
     }
