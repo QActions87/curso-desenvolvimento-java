@@ -1,5 +1,5 @@
 # 🎯Introdução ao Java📝
-![Tux e Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava%2CVSCode&size=48&theme=light&perline=30)
+![Tux e Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava%2CVSCode%2CIdea&size=48&theme=light&perline=30)
 #
 ### Orientação: 
 Neste repo estou documentando a construção do meu conhecimento em programação com Java, com base em alguns cursos que farei e pesquisas complementares.
