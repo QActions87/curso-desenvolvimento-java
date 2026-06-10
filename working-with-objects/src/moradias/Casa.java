@@ -2,8 +2,8 @@ package moradias;
 
 // Classe moradias.Casa:
 public class Casa {
-    boolean inteligente;
-    String nome;
+    public Boolean inteligente;
+    public String nome;
 
     // Construtor Padrão, sem parâmetros:
     public Casa() {
@@ -11,12 +11,11 @@ public class Casa {
     }
     // Construtor com parâmetros:
     public Casa(boolean inteligente) {
-
+        // Atributo objeto recebendo o argumento primitivo booleano:
         this.inteligente = inteligente;
     }
-
     // Metodo para ligar as luzes:
-    void ligarLuzes() {
+    public void ligarLuzes() {
       if (inteligente) {
         System.out.println("comando de Voz: ligar luzes");
       } else {
