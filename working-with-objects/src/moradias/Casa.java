@@ -2,7 +2,7 @@ package moradias;
 
 // Classe moradias.Casa:
 public class Casa {
-    public Boolean inteligente;
+    public Boolean inteligente = false; // Atributo Objeto: nasce como 'null' por padrão
     public String nome;
 
     // Construtor Padrão, sem parâmetros:
