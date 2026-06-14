@@ -4,5 +4,6 @@ public class Main2 {
 
         Double soma = Matematica.soma(5.0, 4.0);
         System.out.println(soma);
+        System.out.println(Matematica.limite);
     }
 }
