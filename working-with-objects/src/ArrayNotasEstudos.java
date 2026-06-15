@@ -6,6 +6,11 @@ public class ArrayNotasEstudos {
 
         System.out.println(idades[0]);
         System.out.println(idades[1]);
+        System.out.println("==============");
+
+        for (int idade : idades) {
+              System.out.println(idade);
+        }
     }
 }
 
