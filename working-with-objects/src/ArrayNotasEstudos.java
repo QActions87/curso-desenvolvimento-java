@@ -1,3 +1,4 @@
+import java.util.Arrays;
 
 public class ArrayNotasEstudos {
 
@@ -11,6 +12,9 @@ public class ArrayNotasEstudos {
         for (int idade : idades) {
               System.out.println(idade);
         }
+        System.out.println("==============");
+
+        System.out.println(Arrays.toString(idades));
     }
 }
 
