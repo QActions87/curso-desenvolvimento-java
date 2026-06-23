@@ -11,7 +11,7 @@ Aqui, temos **artigos** e **códigos fonte** a cerca de temas que estou fascinad
 ### Documentação:
  - **Artigo 01**: [Java — Introdução](https://medium.com/@atom.free/java-introdu%C3%A7%C3%A3o-3292761e18e8?postPublishedType=repub)
 
-Veremos:
+Conteúdo:
 
    - **Fundamentos**: Código Binário e Linguagem de Baixo Nível.
    - **Arquitetura**: Interpretador vs Compilador e o lema do Java (**WORA**).
@@ -28,7 +28,7 @@ Veremos:
 #
  - **Artigo 02:** [JAVA: A importância da precisão nos dados](https://medium.com/@atom.free/java-02-f31f913b46c9?postPublishedType=repub)
 
-Veremos:
+Conteúdo:
 
  - **Tipos Primitivos**: Entender o “tamanho” de cada **recipiente de dado** (**byte, int, long, float, double**). 
 
@@ -50,7 +50,7 @@ Veremos:
 #
  - **Artigo 03:** [JAVA — Entrada e Saída de dados](https://medium.com/@atom.free/java-entrada-e-sa%C3%ADda-de-dados-cf46ff7f7479?postPublishedType=repub)
 
-Veremos:
+Conteúdo:
 
    - Classe Scanner, seu import, o argumento [Sytem.in] e o encerramento do recurso com [**scanner.close()**].
    - Métodos de captura [**nextInt(…)**], [**nextLine(…)**] e [**next(…)**].
@@ -65,7 +65,7 @@ Veremos:
 
 #
 #
-## Exercícios:
+## Hands-on:
     
    - **Código 01**: [**Média Aritmética**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/media/MediaAritmetica.java)
       - **Função**: Programa que captura 3 notas digitadas pelo usuário, **efetua a soma**, depois **calcula a média aritmética e a imprime.
