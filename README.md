@@ -2,11 +2,11 @@
 ![Tux e Java](https://api.devicons.dev.br/icon?icons=Linux%2CJava%2CVSCode%2CIdea&size=48&theme=light&perline=30)
 #
 ### Orientação: 
-Neste repo estou documentando a construção do meu conhecimento em programação com Java, com base em alguns cursos que farei e pesquisas complementares.
+Neste repo estou documentando a construção do meu conhecimento em programação com Java, com base em alguns cursos e pesquisas complementares.
 #
 #
 ## Desenvolvimento Java
-Aqui, temos **artigos** e **códigos fonte** a cerca de temas que estou fascinadamente aprendendo em Java. A **referência do documento** a seguir é o **Curso de Desenvolvimento Java**, da Arquiteta de Soluções Giuliana Silva Bezerra e pesquisas complementares. 
+Aqui, temos **artigos** e **códigos fonte** a cerca de temas que estou fascinadamente aprendendo em Java. A referência do documento a seguir é o Curso de Desenvolvimento Java, da Arquiteta de Soluções Giuliana Silva Bezerra e pesquisas complementares. 
  
 ### Documentação:
  - **Artigo 01**: [Java — Introdução](https://medium.com/@atom.free/java-introdu%C3%A7%C3%A3o-3292761e18e8?postPublishedType=repub)
