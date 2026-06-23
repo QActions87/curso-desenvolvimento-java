@@ -63,7 +63,7 @@ Conteúdo:
      - **Código 02**: [StringNotasEstudo.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/string/StringNotasEstudo.java)
 
 
-#
+
 #
 ## Hands-on:
     
@@ -98,6 +98,8 @@ Conteúdo:
   - **Código 08**: [**Saudação ao Usuário**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/console/SaudacaoConsole.java)
      - **Função**: Usando a classe Console ao invés da Scanner, o programa lê o nome do usuário, informado em um input, depois, concatena isso com uma saudação, imprimindo na tela.
 #
+#
+## IF-ELSE / IF ternário / SWICH-CASE / WHILE & FOR:
 
   - **Código 09**: [**IF: Checador de Idade**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/ChecadorDeIdade.java)
      - **Função**: Entrando em **Estruturas de Decisão**, esse é o 1º código, no qual uso a **estrutura if** para **verificar se o usuário tem 18 anos ou mais**, para que possa conseguir comprar um ingresso para um evento. Também usaremos o **If Ternário**.
@@ -146,6 +148,8 @@ Conteúdo:
   - **Código 20**: [**Jump Statement/continue: Contador de números pares**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatements.java)
      - **Função**: Programa que conta de 1 até 50, **imprimindo** apenas **os pares, passando um  Jump Statement 'continue' para pular os ímpares**.
 #
+#
+## JUMP STATEMANT = BREAK / RETURN:
 
   - **Código 21**: [**Jump Statement/break: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatementsII.java)
      - **Função**: Exemplo de uso do Jump Statement "**break**" para **encerrar um loop quando o usuário digitar uma opção específica** (**0** neste caso).
@@ -154,7 +158,8 @@ Conteúdo:
   - **Código 22**: [**Jump Statement/return: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatementsIII.java)
      - **Função**: Exemplo de uso do Jump Statement "**return**" para **encerrar um loop quando o usuário digitar uma opção específica** (**0** neste caso).
 #
-
+#
+## ARRAYS / ARRAYS MULTIDIMENSIONAIS = Propriedade LENGTH / FOR & FOREACH:
   - **Código 23**: [**Arrays/for/for-each/String[] args: passando argumento em tempo de execução**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayStructure.java)
      - **Função**: Dando **introdução ao array**, neste programa foi usado um array de **tipo de referência** com a **classe String** com frutas. Depois, acessamos e modificamos um elemento do Array. 
 
