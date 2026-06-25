@@ -1,5 +1,5 @@
 public class Usuario {
-    String nome;
-    String email;
-    String senha;
+    public String nome;
+    public String email;
+    public String senha;
 }
