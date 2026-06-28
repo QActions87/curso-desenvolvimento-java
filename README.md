@@ -191,6 +191,64 @@ Por fim, comentei o código, da parte onde acessei e modifiquei os elementos at�
 ## TRABALHANDO COM OBJETOS:
 
 
+ - **Artigo 03:** [JAVA — **Programação Orientada a Objetos-I**](https://medium.com/@atom.freedom/java-programa%C3%A7%C3%A3o-orientada-a-objetos-fb842783fdcb)
+
+Conteúdo:
+
+ - Diferença do fluxo com e sem OO;
+
+ - Classes;
+
+ - Atributos;
+
+ - Métodos;
+
+ - Construtores Padrão;
+
+ - Parâmetro x Argumento;
+
+ - Construtores com Parâmetros;
+
+ - Valores Default dos Atributos com Tipos Primitivos;
+
+ - Valores Default dos Atributos com Tipos de Referência;
+
+ - Import de Pacotes;
+
+ - Membros Públicos;
+
+ - Tipos de Referência;
+
+ - Variáveis Possuem Tipos;
+
+ - Wrapper Classes.
+
+
+
+#
+#
+ - **Artigo 04:** [JAVA — **Programação Orientada a Objetos-II**](https://medium.com/@atom.freedom/java-programa%C3%A7%C3%A3o-orientada-a-objetos-ii-f8268bbdd7c9)
+
+Conteúdo:
+
+ - Modificador Static;
+ - Método Static;
+ - Atributo Static;
+ - Quando usar o Static e Modificador Final;
+ - Nomenclatura Padrão para Constantes;
+ - Resumo dos Modificadores e suas Funções;
+ - A classe java.lang.Math;
+ - Arrays São Objetos;
+ - Arrays de Primitivos;
+ - Classe Utilitária 'Arrays' e o Método Static 'toString';
+ - Arrays de Objetos;
+ - Método Especial toString();
+ - Igualdade entre Objetos;
+ - Implementação dos métodos equals() e hashCode();
+ - Notação @Override;
+ - Igualdade entre Arrays;
+ - Classe Utilitária.
+
 Loading...
 
 
