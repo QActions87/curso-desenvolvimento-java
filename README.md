@@ -58,109 +58,109 @@ Conteúdo:
    - O Tipo de Dado de referência [**String**].
    - [**String Pool**] que é a forma inteligente que o Java lida com duas variáveis string com o mesmo conteúdo.
    
-     - **Código 01**: [IoNotasEstudos.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/io/IoNotasEstudos.java)
+     - **Código 05**: [IoNotasEstudos.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/io/IoNotasEstudos.java)
        
-     - **Código 02**: [StringNotasEstudo.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/string/StringNotasEstudo.java)
+     - **Código 06**: [StringNotasEstudo.java](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/src/string/StringNotasEstudo.java)
 
 
 
 #
 ## Hands-on:
     
-   - **Código 05**: [**Média Aritmética**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/media/MediaAritmetica.java)
+   - **Código 07**: [**Média Aritmética**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/media/MediaAritmetica.java)
       - **Função**: Programa que captura 3 notas digitadas pelo usuário, **efetua a soma**, depois **calcula a média aritmética e a imprime.
 #
 
-   - **Código 06**: [**Conversão de Anos em Dias**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/idade/DiasDeIdade.java)
+   - **Código 08**: [**Conversão de Anos em Dias**](https://github.com/Motatom0101/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/idade/DiasDeIdade.java)
       - **Função**: Captura a **idade do usuário digitada em anos**, depois **converte para dias** e imprime.
 #
 
-   - **Código 07**: [**Tabuada**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/tabuada/Tabuada.java)
+   - **Código 09**: [**Tabuada**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/tabuada/Tabuada.java)
       - **Função**: **Capturar o input numérico inteiro** que o usuário digitar, **tendo como output** a **tabuado até o 10** do número digitado. 
 #
 
-   - **Código 08**: [**Operadores Relacionais**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/oprelacional/RelacionamentosDeOrdem.java)
+   - **Código 10**: [**Operadores Relacionais**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/oprelacional/RelacionamentosDeOrdem.java)
      - **Função**: Este programa permite que o usuário faça o **input de 2 números inteiro**,para que eles sejam **comparados pelos operadores lógicos relacionais**.
 #
 
-   - **Código 09**: [**Programa Cálculo de Desconto**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/desconto/PrecoComDesconto.java)
+   - **Código 11**: [**Programa Cálculo de Desconto**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/desconto/PrecoComDesconto.java)
      - **Função**:  Este programa **lê o valor do produto** e o **desconto em porcentagem**, ambos imputados pelo usuário. Depois, calcula o valor do desconto na compra à vista  do produto, **informando o valor com desconto e o valor economizado**.
 #
 
-   - **Código 10**: [**Cálculo de estoque médio**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estoque/EstoqueMedio.java)
+   - **Código 12**: [**Cálculo de estoque médio**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estoque/EstoqueMedio.java)
      - **Função**: Programa que **calcula o estoque médio** de um produto, com base no estoque mínimo e no máximo.
 #
 
-   - **Código 11**: [**Conversor de Dólares em Reais**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/conversor/ConverosrDolarReal.java)
+   - **Código 13**: [**Conversor de Dólares em Reais**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/conversor/ConverosrDolarReal.java)
      - **Função**: Este programa **converte valores de Dólares para Reais**.
 #
 
-  - **Código 12**: [**Saudação ao Usuário**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/console/SaudacaoConsole.java)
+  - **Código 14**: [**Saudação ao Usuário**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/console/SaudacaoConsole.java)
      - **Função**: Usando a classe Console ao invés da Scanner, o programa lê o nome do usuário, informado em um input, depois, concatena isso com uma saudação, imprimindo na tela.
 #
 #
 ## IF-ELSE / IF ternário / SWICH-CASE / WHILE & FOR:
 
-  - **Código 13**: [**IF: Checador de Idade**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/ChecadorDeIdade.java)
+  - **Código 15**: [**IF: Checador de Idade**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/ChecadorDeIdade.java)
      - **Função**: Entrando em **Estruturas de Decisão**, esse é o 1º código, no qual uso a **estrutura if** para **verificar se o usuário tem 18 anos ou mais**, para que possa conseguir comprar um ingresso para um evento. Também usaremos o **If Ternário**.
 #
 
-  - **Código 14**: [**Switch-Case: Checador de Notas**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estrutura_switch/ChecadorDeNotas.java)
+  - **Código 16**: [**Switch-Case: Checador de Notas**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estrutura_switch/ChecadorDeNotas.java)
      - **Função**: Esta é outra possibilidade de **Estrutura de Decisão**. Porém, o **Switch** trabalha com a ideia de **avaliar o valor de uma variável**, **não uma expressão booleano**. Este programa verificará a nota que o usuário digitar e, de acordo com a nota, terá um output com feedback específico. 
 #
 
-  - **Código 15**: [**If-Else: Checador de Aprovados**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AprovadoReprovado.java)
+  - **Código 17**: [**If-Else: Checador de Aprovados**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AprovadoReprovado.java)
      - **Função**: Através da estrutura **If-Else** e com base em parâmetro definido, o programa em questão é capaz de fazer a média aritmética e informar se, de acordo com o parâmetro definido, o aluno foi aprovado ou não. 
 #
 
-  - **Código 16**: [**If-Else: Par ou Impar?**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/ParOuImpar.java)
+  - **Código 18**: [**If-Else: Par ou Impar?**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/ParOuImpar.java)
      - **Função**: Ainda usando da estrutura **If-Else**, agora com o **operador de módulo (%)** - que verifica o **resto da divisão** -, este programa verifica se um input inteiro feito pelo usuário é **par ou impar**.
 #
 
-  - **Código 17**: [**If-Else: Ordem Crescente**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/OrdemCrescente.java)
+  - **Código 19**: [**If-Else: Ordem Crescente**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/OrdemCrescente.java)
      - **Função**: Programa lê 3 números e os imprime em ordem crescente.
 #
 
-  - **Código 18**: [**Switch-Case: Calculator**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/Calculator.java)
+  - **Código 20**: [**Switch-Case: Calculator**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/Calculator.java)
      - **Função**: Programa lê 2 números e o operador informado pelo usuário, para efetuar o cálculo conforme operação solicitada.
 #
 
-  - **Código 19**: [**If-Else: Calculator de IMC**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/CalculadoraIMC.java)
+  - **Código 21**: [**If-Else: Calculator de IMC**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/CalculadoraIMC.java)
      - **Função**: Programa lê 2 valores: Peso e Altura, calcula o IMC e informa o resultant e a classificação em que o usuário se encontra.
 #
 
-  - **Código 20**: [**Switch-Case: Calcula Área de Figura Geométrica**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AreaFiguraGeometrica.java)
+  - **Código 22**: [**Switch-Case: Calcula Área de Figura Geométrica**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AreaFiguraGeometrica.java)
      - **Função**: Permite que o usuário informe o tipo de figura geométrica e os parâmetros a serem calculados, para que possa informar à área.
 #
 
-  - **Código 21**: [**If-Else: Verificador de Ano Bissexto**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AnoBissexto.java)
+  - **Código 23**: [**If-Else: Verificador de Ano Bissexto**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/exercicios-conhecendo-a-base/src/estruturas_if/AnoBissexto.java)
      - **Função**: Verifica se um ano é bissexto ou não.
 #
 
-  - **Código 22**: [**While-If-Else: Adivinhe o número**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/WhileStructure.java)
+  - **Código 24**: [**While-If-Else: Adivinhe o número**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/WhileStructure.java)
      - **Função**: Aqui, temos um jogo que dá 5 chances para que o usuário tente acertar um determinado número. Por isso, este será o 1º código usando a **estrutura de repetição** **'while'** com um **If-Else aninhado** nele.
 #
 
-  - **Código 23**: [**For: Cálculo de Fatorial**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/ForStructure.java)
+  - **Código 25**: [**For: Cálculo de Fatorial**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/ForStructure.java)
      - **Função**: Calcula **fatorial** com a estrutura de repetição '**for**'.
 #
 
-  - **Código 24**: [**Jump Statement/continue: Contador de números pares**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatements.java)
+  - **Código 26**: [**Jump Statement/continue: Contador de números pares**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatements.java)
      - **Função**: Programa que conta de 1 até 50, **imprimindo** apenas **os pares, passando um  Jump Statement 'continue' para pular os ímpares**.
 #
 #
 ## JUMP STATEMANT = BREAK / RETURN:
 
-  - **Código 25**: [**Jump Statement/break: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatementsII.java)
+  - **Código 27**: [**Jump Statement/break: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatementsII.java)
      - **Função**: Exemplo de uso do Jump Statement "**break**" para **encerrar um loop quando o usuário digitar uma opção específica** (**0** neste caso).
 #
 
-  - **Código 26**: [**Jump Statement/return: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatementsIII.java)
+  - **Código 28**: [**Jump Statement/return: Parada por comando específico**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura_repeticao/estrutura-repeticao/src/repeticao/JumpStatementsIII.java)
      - **Função**: Exemplo de uso do Jump Statement "**return**" para **encerrar um loop quando o usuário digitar uma opção específica** (**0** neste caso).
 #
 #
 ## ARRAYS / ARRAYS MULTIDIMENSIONAIS = Propriedade LENGTH / FOR & FOREACH:
-  - **Código 27**: [**Arrays/for/for-each/String[] args: passando argumento em tempo de execução**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayStructure.java)
+  - **Código 29**: [**Arrays/for/for-each/String[] args: passando argumento em tempo de execução**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayStructure.java)
      - **Função**: Dando **introdução ao array**, neste programa foi usado um array de **tipo de referência** com a **classe String** com frutas. Depois, acessamos e modificamos um elemento do Array. 
 
 Em seguida, verificamos o tamanho do Array com a **propriedade 'length'** da classe String com um l**oop 'for'** para fazer a iteração, percorrer o Array, imprimindo todos elementos. Depois, iteramos sobre o array com um **loop 'for-each'**, deixando o código muito mais legível. 
@@ -168,23 +168,23 @@ Em seguida, verificamos o tamanho do Array com a **propriedade 'length'** da cla
 Por fim, comentei o código, da parte onde acessei e modifiquei os elementos até o fim, para usar a estrutura inicial para testar a passagem de argumento pelo terminal, em tempo de execução, usando a classe 'String' e seus argumentos, contida no método 'main com um **loop for-each**, logo após **instanciar o objeto frutas**. Então, pelo terminal, de dentro do diretório 'bin', podemos **executar o '.class', passando mais frutas**, **ex.:** [.../bin$ **java ArrayStructure "Jaca" "Cajú"**].
 #
 
-  - **Código 28**: [**Array/Array Multidimensional: Percorrendo com For aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayMultidimensional.java)
+  - **Código 30**: [**Array/Array Multidimensional: Percorrendo com For aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/ArrayMultidimensional.java)
      - **Função**: Vimos como lidar com arrays simples. Agora, vamos ver como **criar arrays multidimensionais**, **acessar suas posições**, **atualizar** seus **valores**, **acessar** o seus **tamanhos** e **percorrer** sua estrutura **com loops for aninhado**.
 #
 
-  - **Código 29**: [**Array/Array Multidimensional: Percorrendo com Foreach aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/PercorrendoArrayMultidimensional.java)
+  - **Código 31**: [**Array/Array Multidimensional: Percorrendo com Foreach aninhado**](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/arrays-java/arrays-java/src/PercorrendoArrayMultidimensional.java)
      - **Função**: Agora, vamos **percorrer** a estrutura do **array multidimensional com loop aninhado Foreach**.
 #
 
-  - **Código 30**: [**Array: Imprimir Array de Numeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ImprimirArrayNumeros.java)
+  - **Código 32**: [**Array: Imprimir Array de Numeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ImprimirArrayNumeros.java)
      - **Função**: Estre programa efetua a **leitura do tamanho do array** que o usuario digitar, **riando um array** este dado, posteriormente **capturando os dados** informados - a quantidade informada no tamanho -, depois ****os imprime**.
 #
 
-  - **Código 31**: [**Array: Gerenciador de Tarefas**](https://github.com/QActions87/Fundamentos_java/blob/main/src/Tarefas.java)
+  - **Código 33**: [**Array: Gerenciador de Tarefas**](https://github.com/QActions87/Fundamentos_java/blob/main/src/Tarefas.java)
      - **Função**: Esse programa funciona como um **Gerenciador de Tarefas via Terminal**. Ele utiliza um **ciclo de repetição para manter o software ativo** até que você decida fechá-lo, permitindo manipular uma **lista fixa de 10 posições**.
 #
 
-  - **Código 32**: [**Array: Comparando Arrays de Numeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ComparandoArraysNumeros.java)
+  - **Código 34**: [**Array: Comparando Arrays de Numeros**](https://github.com/QActions87/Fundamentos_java/blob/main/src/ComparandoArraysNumeros.java)
      - **Função**: Programa compara 2 arrays criados pelo user, retornando os numeros em comum entre ambos.
 #
 #
@@ -223,17 +223,17 @@ Conteúdo:
 
  - Wrapper Classes.
 
-     - **Código 33**: [ObjectOrientedProgramming.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ObjectOrientedProgramming.java)
+     - **Código 35**: [ObjectOrientedProgramming.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ObjectOrientedProgramming.java)
      
-     - **Código 34**: [Casa.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/moradias/Casa.java)
+     - **Código 36**: [Casa.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/moradias/Casa.java)
      
-     - **Código 35**: [Compra.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Compra.java)
+     - **Código 37**: [Compra.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Compra.java)
        
-     - **Código 36**: [Usuario.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Usuario.java)
+     - **Código 38**: [Usuario.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Usuario.java)
      
-     - **Código 37**: [Produto.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Produto.java)
+     - **Código 39**: [Produto.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Produto.java)
        
-     - **Código 38**: [Main.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Main.java)
+     - **Código 40**: [Main.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Main.java)
   
 #
 #
@@ -259,17 +259,17 @@ Conteúdo:
  - Igualdade entre Arrays;
  - Classe Utilitária.
 
-     - **Código 39**: [Matematica.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Matematica.java)
+     - **Código 41**: [Matematica.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Matematica.java)
      
-     - **Código 40**: [Main2.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Main2.java)
+     - **Código 42**: [Main2.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Main2.java)
      
-     - **Código 41**: [ArrayNotasEstudos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ArrayNotasEstudos.java)
+     - **Código 43**: [ArrayNotasEstudos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ArrayNotasEstudos.java)
    
-     - **Código 42**: [Gato.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Gato.java)
+     - **Código 44**: [Gato.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Gato.java)
      
-     - **Código 43**: [ArrayNotasEstudosII.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ArrayNotasEstudosII.java)
+     - **Código 45**: [ArrayNotasEstudosII.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ArrayNotasEstudosII.java)
      
-     - **Código 44**: [ComparandoObjetos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ComparandoObjetos.java)
+     - **Código 46**: [ComparandoObjetos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ComparandoObjetos.java)
    
 
 Loading...
