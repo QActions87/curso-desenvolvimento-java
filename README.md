@@ -188,7 +188,7 @@ Por fim, comentei o código, da parte onde acessei e modifiquei os elementos at�
      - **Função**: Programa compara 2 arrays criados pelo user, retornando os numeros em comum entre ambos.
 #
 #
-## TRABALHANDO COM OBJETOS:
+## PROGRAMAÇÃO ORIENTADA A OBJETOS:
 
 
  - **Artigo 03:** [JAVA — **Programação Orientada a Objetos-I**](https://medium.com/@atom.freedom/java-programa%C3%A7%C3%A3o-orientada-a-objetos-fb842783fdcb)
@@ -223,8 +223,18 @@ Conteúdo:
 
  - Wrapper Classes.
 
-
-
+     - **Código 01**: [ObjectOrientedProgramming.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ObjectOrientedProgramming.java)
+     
+     - **Código 02**: [Casa.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/moradias/Casa.java)
+     
+     - **Código 03**: [Compra.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Compra.java)
+       
+     - **Código 04**: [Usuario.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Usuario.java)
+     
+     - **Código 05**: [Produto.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Produto.java)
+       
+     - **Código 06**: [Main.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Main.java)
+  
 #
 #
  - **Artigo 04:** [JAVA — **Programação Orientada a Objetos-II**](https://medium.com/@atom.freedom/java-programa%C3%A7%C3%A3o-orientada-a-objetos-ii-f8268bbdd7c9)
@@ -248,6 +258,18 @@ Conteúdo:
  - Notação @Override;
  - Igualdade entre Arrays;
  - Classe Utilitária.
+
+     - **Código 01**: [Matematica.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Matematica.java)
+     
+     - **Código 02**: [Main2.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Main2.java)
+     
+     - **Código 03**: [ArrayNotasEstudos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ArrayNotasEstudos.java)
+   
+     - **Código 04**: [Gato.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Gato.java)
+     
+     - **Código 05**: [ArrayNotasEstudosII.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ArrayNotasEstudosII.java)
+     
+     - **Código 06**: [ComparandoObjetos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ComparandoObjetos.java)
    
 
 Loading...
