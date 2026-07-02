@@ -13,6 +13,6 @@ public class Carro {
     }
 
     public void frear() {
-        System.out.println("Freando...");
+        System.out.println("Freando....");
     }
 }
