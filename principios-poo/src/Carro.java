@@ -19,6 +19,10 @@ public class Carro {
         System.out.println("Freando....");
     }
 
+    private void detectarColisao() {
+        ativarAirbags();
+    }
+
     private void ativarAirbags() {
         System.out.println("Ativando airbags...");
     }
