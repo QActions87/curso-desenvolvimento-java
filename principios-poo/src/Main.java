@@ -8,7 +8,6 @@ public class Main {
         carro.frear();
 
         // Acessando os atributos:
-        carro.ativarAirbags();
         System.out.println(carro.volante);
         System.out.println(carro.pedais);
     }

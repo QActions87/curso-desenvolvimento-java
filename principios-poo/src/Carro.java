@@ -1,7 +1,7 @@
 public class Carro {
 
-    public String volante;
-    public String pedais;
+    private String volante;
+    private String pedais;
 
     private Motor motor;
     private String airbag;
