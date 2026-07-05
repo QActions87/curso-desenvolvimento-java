@@ -19,7 +19,7 @@ public class Carro {
         System.out.println("Freando....");
     }
 
-    public void ativarAirbags() {
+    private void ativarAirbags() {
         System.out.println("Ativando airbags...");
     }
 }
