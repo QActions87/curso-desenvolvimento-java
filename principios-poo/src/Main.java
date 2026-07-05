@@ -8,9 +8,7 @@ public class Main {
         carro.frear();
 
         // Acessando os atributos:
-        System.out.println(carro.motor);
         System.out.println(carro.volante);
-        System.out.println(carro.airbag);
         System.out.println(carro.pedais);
     }
 }
