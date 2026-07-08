@@ -7,6 +7,11 @@ class Carro {
     private Motor motor;
     private String airbag;
 
+    // Construtor com modificador public:
+    public Carro() {
+        this.motor = new Motor();
+    }
+
     // Métodos:
     public void ligarCarro() {
         System.out.println("Ligando o carro...");
