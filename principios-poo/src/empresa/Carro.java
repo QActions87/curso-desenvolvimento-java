@@ -10,6 +10,8 @@ class Carro {
     // Construtor com modificador public:
     public Carro() {
         this.motor = new Motor();
+        this.volante = "Volante";
+        this.pedais = "Pedais";
     }
 
     // Métodos:
