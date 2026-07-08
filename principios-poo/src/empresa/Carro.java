@@ -1,3 +1,5 @@
+package empresa;
+
 class Carro {
     // Atributos privados:
     private String volante;
