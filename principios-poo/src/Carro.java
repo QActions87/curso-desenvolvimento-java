@@ -1,4 +1,4 @@
-public class Carro {
+class Carro {
     // Atributos privados:
     private String volante;
     private String pedais;
