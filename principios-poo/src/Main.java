@@ -9,8 +9,10 @@ public class Main {
 
         // Acessando os atributos:
         System.out.println(carro.volante);
-        System.out.println(carro.pedais);
+        System.out.println(carro.getVolanter());
+
         // Acessando o atributo para modificar:
         carro.volante "exemplo";
+        carro.setVolante("exemplo");
     }
 }
