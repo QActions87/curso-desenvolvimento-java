@@ -1,7 +1,5 @@
 package empresa;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         Carro carro = new Carro();
@@ -9,12 +7,13 @@ public class Main {
         carro.acelerar();
         carro.frear();
 
-        // Acessando os atributos:
-        System.out.println(carro.volante);
-        System.out.println(carro.getVolanter());
+        // Acessando o atributo:
+        System.out.println(carro.getVolante());
 
         // Acessando o atributo para modificar:
-        carro.volante "exemplo";
         carro.setVolante("exemplo");
+
+        // Acessando o atributo modificado:
+        System.out.println(carro.getVolante());
     }
 }

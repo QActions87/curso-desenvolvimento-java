@@ -20,7 +20,6 @@ class Carro {
 
     }
     public void acelerar() {
-        motor.iniciar();
         System.out.println("Acelerando...");
 
     }
