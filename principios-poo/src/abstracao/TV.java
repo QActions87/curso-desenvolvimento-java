@@ -14,5 +14,18 @@ public class TV {
         );
     }
 
+    public void aumentarVolume() {
+        this.volume++;
+        System.out.println("Volume atual: " + this.volume);
+    }
 
+    public void reduzirVolume() {
+        this.volume--;
+        System.out.println("Volume atual: " + this.volume);
+    }
+
+    public  void  trocarCanal(int novoCanal) {
+        this.canal = novoCanal;
+        System.out.println("Canal atual: " + this.canal);
+    }
 }
