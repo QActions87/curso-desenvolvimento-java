@@ -11,8 +11,13 @@ public class SuperHeroi {
         this.superPoderes = superPoderes;
     }
 
-    // Métodos:
+    // Metodos:
     public void usarSuperPoder(int index) {
         System.out.println("Usando super poder " + superPoderes[index]);
+    }
+
+    // Metodo Get para acessar o traje:
+    public String getTrage() {
+        return traje;
     }
 }
