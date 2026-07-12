@@ -11,15 +11,6 @@ public class SuperHeroi {
         this.superPoderes = superPoderes;
     }
 
-    public SuperHeroi(String traje) {
-        this.traje = traje;
-
-    }
-
-    public SuperHeroi() {
-
-    }
-
     // Métodos:
     public void usarSuperPoder(int index) {
         System.out.println("Usando super poder " + superPoderes[index]);
