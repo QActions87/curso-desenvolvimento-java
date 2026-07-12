@@ -17,7 +17,7 @@ public class SuperHeroi {
     }
 
     // Metodo Get para acessar o traje:
-    public String getTrage() {
+    public String getTraje() {
         return traje;
     }
 }
