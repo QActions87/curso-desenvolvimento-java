@@ -272,14 +272,33 @@ Conteúdo:
      - **Código 46**: [ComparandoObjetos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ComparandoObjetos.java)
    
 
+#
+#
+## PILARES DA ORIENTADA A OBJETOS:
+
+
+ - **Artigo 05:** [JAVA — Pilares da Orientação a Objetos: **Encapsulamento e Abstração.**](https://medium.com/@atom.freedom/java-pilares-da-orienta%C3%A7%C3%A3o-a-objetos-encapsulamento-e-abstra%C3%A7%C3%A3o-d554f831e48b)
+
+Conteúdo:
+
+ - Encapsulamento;
+ - Os Três Pilares Técnicos do Encapsulamento em Java:
+   -	I - Modificadores de Acesso Private;
+   -	II - Métodos Getters e Setters;
+ 	 -	II - Validação e Segurança (Regra de negócio).
+ - Conceito de Encapsulamento na Prática;
+ - Modificadores de Acesso em Atributos;
+ - Modificadores de Acesso em Métodos;
+ - Getters e Setters;
+ - Mas, por que não deixar a variável pública de uma vez?
+ - Modificadores de Acesso em Classes;
+ - Modificadores de Acesso em Pacote Default;
+ - Encapsulamento no Construtor;
+ - Teoria: Abstração;
+ - A Abstração com o exemplo da TV;
+ - Prática: Abstração. 
+
 Loading...
-
-
-
-
-
-
-
 
 
 
