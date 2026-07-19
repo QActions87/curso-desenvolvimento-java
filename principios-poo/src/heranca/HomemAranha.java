@@ -3,10 +3,12 @@ package heranca;
 public class HomemAranha extends SuperHeroi {
     // Construtor com os mesmos parâmetros que o da S. Class + chamada ao construtor canônico:
     public HomemAranha(String traje, String[] superPoderes) {
+
         super(traje, superPoderes);
     }
-
+    // Metodo sobrescrito:
     public void usarSuperPoder(int index) {
+
         System.out.println("Usando super poder " + superPoderes[index]);
     }
 }
