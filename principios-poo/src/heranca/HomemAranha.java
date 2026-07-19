@@ -5,4 +5,8 @@ public class HomemAranha extends SuperHeroi {
     public HomemAranha(String traje, String[] superPoderes) {
         super(traje, superPoderes);
     }
+
+    public void usarSuperPoder(int index) {
+        System.out.println("Usando super poder " + superPoderes[index]);
+    }
 }
