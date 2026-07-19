@@ -8,7 +8,7 @@ public class HomemAranha extends SuperHeroi {
     }
     // Metodo sobrescrito:
     public void usarSuperPoder(int index) {
-
-        System.out.println("Usando super poder " + superPoderes[index]);
+        super.usarSuperPoder(index);
+        System.out.println("Usando teia para se locomover entre prédios!");
     }
 }
