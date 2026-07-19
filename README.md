@@ -18,10 +18,10 @@ Conteúdo:
    - **Ambiente**: O papel da **JDK, JRE e JVM**, além das principais IDEs.
    - **Setup Linux**: Instalação em OS baseada em Ubuntu e extensões essenciais.
    - **Projeto e Estrutura**: Como criar um projeto, organização de diretórios e pacotes.
-   - **Mão na Massa**: Estrutura de um programa, **comandos nativos** (**javac, java, java**p), Método empresa.Main e **Entry Point**.
+   - **Mão na Massa**: Estrutura de um programa, **comandos nativos** (**javac, java, java**p), Método encapsulamento.Main e **Entry Point**.
    - **Saída de Dados**: O comando println e gerenciamento de arquivos.
 
-     - **Código 01**: [empresa.Main.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura-programa-java/src/olamundo/empresa.Main.java)
+     - **Código 01**: [encapsulamento.Main.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/estrutura-programa-java/src/olamundo/empresa.Main.java)
 
 
 #
@@ -233,7 +233,7 @@ Conteúdo:
      
      - **Código 39**: [Produto.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/Produto.java)
        
-     - **Código 40**: [empresa.Main.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/empresa.Main.java)
+     - **Código 40**: [encapsulamento.Main.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/empresa.Main.java)
   
 #
 #
