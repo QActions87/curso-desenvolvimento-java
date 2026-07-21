@@ -271,7 +271,6 @@ Conteúdo:
      
      - **Código 46**: [ComparandoObjetos.java](https://github.com/QActions87/curso-desenvolvimento-java/blob/main/working-with-objects/src/ComparandoObjetos.java)
    
-
 #
 #
 ## PILARES DA ORIENTADA A OBJETOS:
@@ -296,7 +295,8 @@ Conteúdo:
  - Encapsulamento no Construtor;
  - Teoria: Abstração;
  - A Abstração com o exemplo da TV;
- - Prática: Abstração. 
+ - Prática: Abstração.
+   
 
 Loading...
 
