@@ -9,7 +9,7 @@ Neste repo estou documentando a construção do meu conhecimento em programaçã
 Aqui, temos **artigos** e **códigos fonte** a cerca de temas que estou fascinadamente aprendendo em Java. A referência do documento a seguir é o Curso de Desenvolvimento Java, da Arquiteta de Soluções Giuliana Silva Bezerra e pesquisas complementares. 
  
 ### Documentação:
- - **Artigo 01**: [Java — Introdução](https://medium.com/@atom.free/java-introdu%C3%A7%C3%A3o-3292761e18e8?postPublishedType=repub)
+**Artigo 01**: [Java — Introdução](https://medium.com/@atom.free/java-introdu%C3%A7%C3%A3o-3292761e18e8?postPublishedType=repub)
 
 Conteúdo:
 
@@ -26,7 +26,7 @@ Conteúdo:
 
 #
 #
- - **Artigo 02:** [JAVA: A importância da precisão nos dados](https://medium.com/@atom.free/java-02-f31f913b46c9?postPublishedType=repub)
+**Artigo 02:** [JAVA: A importância da precisão nos dados](https://medium.com/@atom.free/java-02-f31f913b46c9?postPublishedType=repub)
 
 Conteúdo:
 
@@ -48,7 +48,7 @@ Conteúdo:
      
 #
 #
- - **Artigo 03:** [JAVA — Entrada e Saída de dados](https://medium.com/@atom.free/java-entrada-e-sa%C3%ADda-de-dados-cf46ff7f7479?postPublishedType=repub)
+**Artigo 03:** [JAVA — Entrada e Saída de dados](https://medium.com/@atom.free/java-entrada-e-sa%C3%ADda-de-dados-cf46ff7f7479?postPublishedType=repub)
 
 Conteúdo:
 
@@ -191,7 +191,7 @@ Por fim, comentei o código, da parte onde acessei e modifiquei os elementos at�
 ## PROGRAMAÇÃO ORIENTADA A OBJETOS:
 
 
- - **Artigo 03:** [JAVA — **Programação Orientada a Objetos-I**](https://medium.com/@atom.freedom/java-programa%C3%A7%C3%A3o-orientada-a-objetos-fb842783fdcb)
+**Artigo 03:** [JAVA — **Programação Orientada a Objetos-I**](https://medium.com/@atom.freedom/java-programa%C3%A7%C3%A3o-orientada-a-objetos-fb842783fdcb)
 
 Conteúdo:
 
@@ -237,7 +237,7 @@ Conteúdo:
   
 #
 #
- - **Artigo 04:** [JAVA — **Programação Orientada a Objetos-II**](https://medium.com/@atom.freedom/java-programa%C3%A7%C3%A3o-orientada-a-objetos-ii-f8268bbdd7c9)
+**Artigo 04:** [JAVA — **Programação Orientada a Objetos-II**](https://medium.com/@atom.freedom/java-programa%C3%A7%C3%A3o-orientada-a-objetos-ii-f8268bbdd7c9)
 
 Conteúdo:
 
@@ -276,7 +276,7 @@ Conteúdo:
 ## PILARES DA ORIENTADA A OBJETOS:
 
 
- - **Artigo 05:** [JAVA — Pilares da Orientação a Objetos: **Encapsulamento e Abstração.**](https://medium.com/@atom.freedom/java-pilares-da-orienta%C3%A7%C3%A3o-a-objetos-encapsulamento-e-abstra%C3%A7%C3%A3o-d554f831e48b)
+**Artigo 05:** [JAVA — Pilares da Orientação a Objetos: **Encapsulamento e Abstração.**](https://medium.com/@atom.freedom/java-pilares-da-orienta%C3%A7%C3%A3o-a-objetos-encapsulamento-e-abstra%C3%A7%C3%A3o-d554f831e48b)
 
 Conteúdo:
 
